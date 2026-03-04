@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "status": "paid",
+    "description": "drive",
+    "date": "2026-12-16T10:3:40.282Z"
+  },
+  {
+    "id": 3,
+    "status": "paid",
+    "description": "car wash",
+    "date": "2026-10-05T14:45:10.500Z"
+  },
+  {
+    "id": 5,
+    "status": "paid",
+    "description": "tire replacement",
+    "date": "2026-08-22T16:05:40.875Z"
+  },
+  {
+    "id": 7,
+    "status": "paid",
+    "description": "parking fee",
+    "date": "2026-06-03T19:10:05.210Z"
+  }
+]
